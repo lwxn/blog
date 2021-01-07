@@ -1,0 +1,4 @@
+[submodule "lwxn-blog/public"]
+	path = lwxn-blog/public
+	url = https://github.com/lwxn/lwxn.github.io.git
+	branch = main
